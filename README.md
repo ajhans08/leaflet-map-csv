@@ -8,7 +8,5 @@ Build a simple Leaflet map with point markers from a CSV file.
 
 https://ajhans08.github.io/leaflet-map-csv/
 
-## Demo
-https://handsondataviz.github.io/leaflet-map-csv/
 ## Tutorial
 https://handsondataviz.org/leaflet-maps-with-csv.html
